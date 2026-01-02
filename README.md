@@ -44,4 +44,4 @@ Nesta seção, detalho como cheguei aos coeficientes de predição:
 ## 👤 Autor
 **Jessé Oliveira de Castro**
 * <a href="https://www.linkedin.com/in/jesse-oliveira-de-castro-88421536/" target="_blank">LinkedIn Profissional</a>
-* <a href="https://jesse-datadriven.github.io/Portfolio-JesseDataDriven/" target="_blank">Portfólio Profissional - Jessé Oliveira de Castro</a>
+* <a href="https://portfolio-jesseoliveiracastro.netlify.app/" target="_blank">Portfólio Profissional - Jessé Oliveira de Castro</a>
