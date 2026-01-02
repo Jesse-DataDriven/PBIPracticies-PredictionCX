@@ -2,7 +2,8 @@
 Here my projects in Pbix front end to prective and statistic CX
 # Predição de Experiência do Cliente (CX) | Metodologia Lean Six Sigma
 
-![Demonstração do Dashboard](https://i.postimg.cc/gkGWL3QK/01-Algoritmo-de-Predicao-de-NPS.gif)
+![Página 1 - Algoritmo dinâmico](https://i.postimg.cc/gkGWL3QK/01-Algoritmo-de-Predicao-de-NPS.gif)
+![Página 2 - Especificações e performance] (https://i.postimg.cc/c4mz0N5L/Pagina-2-Especificacoes.gif).
 
 ## 📌 Visão Geral
 Este projeto foi desenvolvido utilizando a metodologia **DMAIC** para identificar os principais drivers de satisfação do cliente. Através de modelos de regressão, foi possível prever o impacto de variáveis operacionais no NPS (Net Promoter Score), permitindo uma tomada de decisão proativa e baseada em dados.
@@ -35,3 +36,4 @@ Nesta seção, detalho como cheguei aos coeficientes de predição:
 
 ## 👤 Autor
 **Jessé DataDriven** - https://www.linkedin.com/in/jesse-oliveira-de-castro-88421536/
+**Jessé Portfólio** - https://portfolio-jesseoliveiracastro.netlify.app/
