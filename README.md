@@ -34,4 +34,4 @@ Nesta seção, detalho como cheguei aos coeficientes de predição:
 * `/results`: Tabelas de coeficientes e resultados consolidados.
 
 ## 👤 Autor
-**Jessé DataDriven** - [https://www.linkedin.com/in/jesse-oliveira-de-castro-88421536/]****
+**Jessé DataDriven** - https://www.linkedin.com/in/jesse-oliveira-de-castro-88421536/
