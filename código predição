@@ -1,0 +1,60 @@
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd 
+import statsmodels.api as sm
+
+# ler a base regressão simples (MOnitoramento VS NPS)
+df = pd.read_excel('Base de dados MOnit VS NPS.xlsx')
+
+# definindo X e Y
+x = df[['% MONITORAMENTO']]
+y = df['NPS CRISTAL']
+#MonitReal = 0.94
+
+# Cria o modelo modelo = sm.OLS(Y, X).fit()
+modelo = sm.OLS(y,x).fit()
+print(modelo.summary())
+
+# CRIANDO E TREINANDO O MODELO
+modelo = LinearRegression()
+modelo.fit(x, y)
+
+# gráfico de dispersão com linha de regressão
+sns.scatterplot(x=x.squeeze(), y=y)
+plt.plot(x, modelo.predict(x), color='red')
+plt.title('Regressão: % Monitoramento vs NPS Cristal')
+plt.xlabel('% MONITORAMENTO')
+plt.ylabel('NPS CRISTAL')
+plt.show()
+input("Pressione Enter para continuar...")
+
+# histograma do % MONITORAMENTO
+sns.histplot(df['% MONITORAMENTO'], kde=True)
+plt.title('Distribuição do % MONITORAMENTO')
+plt.show()
+input("Pressione Enter para continuar...")
+
+# histograma do NPS CRISTAL
+sns.histplot(df['NPS CRISTAL'], kde=True)
+plt.title('Distribuição do NPS CRISTAL')
+plt.show()
+input("Pressione Enter para continuar...")
+
+# RESULTADOS
+print('Contribution (m):', modelo.coef_[0])
+print('Intercepto (b):', modelo.intercept_)
+print('R² (qualidade do ajuste):', modelo.score(x, y))
+
+# CENÁRIOS PREDIÇÃO
+print("\n--- Predições de NPS para monitoramento de 85% a 100% ---")
+for m in range(85, 101):  # 85 até 100
+    valor = m / 100       # transforma em decimal (0.85, 0.86...)
+    nps_predito = modelo.predict([[valor]])[0]
+    print(f"Monitoramento: {m}% → NPS predito: {nps_predito:.2f}")
+
+
+#print('NPS predito para 95% de monitoramento:', modelo.predict([[MonitReal]])[0])
+
+#print(df.head())
