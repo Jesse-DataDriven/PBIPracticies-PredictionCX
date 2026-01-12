@@ -1,3 +1,8 @@
+![Regressão](https://img.shields.io/badge/Regressão-Ciência%20de%20Dados-1f77b4)
+![Algoritmo](https://img.shields.io/badge/Algoritmo-Modelagem%20Lógica-2ca02c)
+![Inteligência Ativa](https://img.shields.io/badge/IA-Inteligência%20Ativa-9467bd)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+
 # Algoritmo de Predição da Experiência | Metodologia Lean Six Sigma | Melhoria Contínua
 
 ## 📊 Demonstração do Projeto
