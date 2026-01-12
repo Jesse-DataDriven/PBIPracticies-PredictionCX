@@ -36,10 +36,11 @@ Nesta seção, detalho como cheguei aos coeficientes de predição:
 * **Saída:** Probabilidade de [Churn/Satisfação NPS].
 
 ## 📂 Estrutura do Repositório
-* `/visuals`: Imagens das análises estatísticas e interface.
-* `/metrics`: Documentação das fórmulas DAX e lógica de predição.
-* `/documentation`: Case Study completo detalhando as etapas do projeto.
+* `/Notebook`: Códigos da camada final da programação.
 * `/results`: Tabelas de coeficientes e resultados consolidados.
+* `/metrics`: Documentação das fórmulas DAX e lógica de predição.
+* `/visuals`: Imagens das análises estatísticas e interface.
+* `/documentation`: README
 
 ## 👤 Autor
 **Jessé Oliveira de Castro**
