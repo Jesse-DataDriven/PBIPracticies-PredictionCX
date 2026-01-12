@@ -5,7 +5,7 @@ import seaborn as sns
 import pandas as pd 
 import statsmodels.api as sm
 
-# ler a base regressão simples (MOnitoramento VS NPS)
+# lendo a base regressão simples (MOnitoramento VS NPS)
 df = pd.read_excel('Base de dados MOnit VS NPS.xlsx')
 
 # definindo X e Y
