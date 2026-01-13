@@ -26,7 +26,7 @@ A performance estatística do modelo demonstra robustez, estabilidade e capacida
 
 ---
 
-## 🖼️ Visual Científico
+## 🖼️ Visual dos resultados científicos
 ![Scientific Model](https://i.postimg.cc/c4mz0N5L/Página_2_Especificações.gif)
 
 ---
