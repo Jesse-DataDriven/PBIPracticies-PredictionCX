@@ -2,6 +2,12 @@
 ![Algoritmo](https://img.shields.io/badge/Algoritmo-Modelagem%20Lógica-2ca02c)
 ![Inteligência Ativa](https://img.shields.io/badge/IA-Inteligência%20Ativa-9467bd)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+🟩 **DMAIC Certified – Lean Six Sigma**
+████████████████████████████████████
+█  DMAIC • Lean Six Sigma Framework █
+████████████████████████████████████
+📊 Powered by Minitab – Statistical Validation
+
 
 # Algoritmo de Predição da Experiência | Metodologia Lean Six Sigma | Melhoria Contínua
 
