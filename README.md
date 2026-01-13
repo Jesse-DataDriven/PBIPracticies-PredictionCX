@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/DMAIC-Lean_Six_Sigma-28a745?style=flat-square">
   <img src="https://img.shields.io/badge/Minitab-Statistical_Validation-1f77b4?style=flat-square">
   <img src="https://img.shields.io/badge/PNL-Natural_Language_Processing-6a1b9a?style=flat-square">
