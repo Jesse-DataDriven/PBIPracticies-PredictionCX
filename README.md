@@ -6,13 +6,6 @@
 ![Minitab](https://img.shields.io/badge/Minitab-Statistical_Validation-1f77b4?style=flat)
 ![Power BI](https://img.shields.io/badge/Power_BI-Predictive_Analytics-f2c811?style=flat)
 ![Lasso](https://img.shields.io/badge/Lasso_Regression-R²_0.84-9c27b0?style=flat)
-![DMAIC](https://img.shields.io/badge/DMAIC-Lean%20Six%20Sigma-28a745?style=for-the-badge&logo=leanpub&logoColor=white)
-![Minitab](https://img.shields.io/badge/Minitab-Statistical%20Validation-1f77b4?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-PredictionCX-ff9800?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Predictive%20Analytics-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Lasso](https://img.shields.io/badge/Lasso%20Regression-R%C2%B2%200.84-9c27b0?style=for-the-badge)
-
-
 
 # Algoritmo de Predição da Experiência | Metodologia Lean Six Sigma | Melhoria Contínua
 
