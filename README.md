@@ -1,12 +1,10 @@
 <p align="center">
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![Regressão](https://img.shields.io/badge/Regressão-Ciência%20de%20Dados-1f77b4)
-![Algoritmo](https://img.shields.io/badge/Algoritmo-Modelagem%20Lógica-2ca02c)
-![Inteligência Ativa](https://img.shields.io/badge/IA-Inteligência%20Ativa-9467bd)
-![DMAIC](https://img.shields.io/badge/DMAIC-Lean_Six_Sigma-28a745?style=flat)
-![Minitab](https://img.shields.io/badge/Minitab-Statistical_Validation-1f77b4?style=flat)
-![Power BI](https://img.shields.io/badge/Power_BI-Predictive_Analytics-f2c811?style=flat)
-![Lasso](https://img.shields.io/badge/Lasso_Regression-R²_0.84-9c27b0?style=flat)
+  <img src="https://img.shields.io/badge/DMAIC-Lean_Six_Sigma-28a745?style=flat-square">
+  <img src="https://img.shields.io/badge/Minitab-Statistical_Validation-1f77b4?style=flat-square">
+  <img src="https://img.shields.io/badge/PNL-Natural_Language_Processing-6a1b9a?style=flat-square">
+  <img src="https://img.shields.io/badge/Machine_Learning-PredictionCX-ff9800?style=flat-square">
+  <img src="https://img.shields.io/badge/Power_BI-Predictive_Analytics-f2c811?style=flat-square">
+  <img src="https://img.shields.io/badge/Lasso_Regression-R%C2%B2_0.84-9c27b0?style=flat-square">
 </p>
 
 # Algoritmo de Predição da Experiência | Metodologia Lean Six Sigma | Melhoria Contínua
