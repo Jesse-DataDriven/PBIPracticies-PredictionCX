@@ -1,7 +1,7 @@
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Regressão](https://img.shields.io/badge/Regressão-Ciência%20de%20Dados-1f77b4)
 ![Algoritmo](https://img.shields.io/badge/Algoritmo-Modelagem%20Lógica-2ca02c)
 ![Inteligência Ativa](https://img.shields.io/badge/IA-Inteligência%20Ativa-9467bd)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![DMAIC](https://img.shields.io/badge/DMAIC-Lean_Six_Sigma-28a745?style=flat)
 ![Minitab](https://img.shields.io/badge/Minitab-Statistical_Validation-1f77b4?style=flat)
 ![Power BI](https://img.shields.io/badge/Power_BI-Predictive_Analytics-f2c811?style=flat)
