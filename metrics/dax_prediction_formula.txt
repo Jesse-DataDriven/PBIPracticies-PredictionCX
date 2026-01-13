@@ -1,0 +1,4 @@
+Predição NPS = 
+[Intercept NPS] + 
+('% Monitoramento'[Valor % Monitoramento 3] / 100) *
+[Contribution NPS]
